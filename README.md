@@ -16,7 +16,7 @@ This is a web application that allows users to upload bird images and get predic
 - Live preview of uploaded image
 
 ---
-
+                  
 ## 🧠 Model Info
 
 - Framework: TensorFlow / Keras
