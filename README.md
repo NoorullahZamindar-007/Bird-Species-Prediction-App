@@ -17,7 +17,7 @@ This is a web application that allows users to upload bird images and get predic
                                 
 ---                                    
                   
-## 🧠 Model Info
+## 🧠 Model Info                    
                    
 - Framework: TensorFlow / Keras                                  
 - Input Shape: (224x224x3)
