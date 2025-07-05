@@ -15,7 +15,7 @@ This is a web application that allows users to upload bird images and get predic
 - Simple UI using Django templating                                                                                                  
 - Live preview of uploaded image                                                                                                                                                                                                                                                                                                                  
                                                                                                                                                                                                          
----                                                     
+---                                                                           
                                                                                                                        
 ## 🧠 Model Info                                                                                                   
                    
