@@ -4,7 +4,7 @@
 # 🐦 Bird Species Prediction Web App (Django + TensorFlow)
 
 This is a web application that allows users to upload bird images and get predictions of the bird species using a trained TensorFlow model. The application is built using **Django**, with a user-friendly interface and a deep learning model trained on bird species.
-                                                           
+                                                                                    
 ---                                                                                                          
 
 ## 📌 Features                                                                                                                         
