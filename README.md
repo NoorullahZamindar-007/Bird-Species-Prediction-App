@@ -7,7 +7,7 @@ This is a web application that allows users to upload bird images and get predic
                                                                                     
 ---                                                                                                          
 
-## 📌 Features                                                                                                                                       
+## 📌 Features                                                                                                                                                      
                                                                                                                             
    - Upload bird images via web form                                                                                                                                                                                                                                                                      
 - Predict species using a `.h5` deep learning model                                                                                                                                                                                                                                                                    
